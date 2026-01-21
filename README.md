@@ -13,3 +13,9 @@ A very simple Windows application to use any website like a local app.
 # Usage ⚙
 
 Just download and extract the "Web2App-Portable.zip" file for a certain release and start the software by clicking on the "Web2App.exe" file.
+
+#Download
+
+Link: 
+
+https://github.com/APTMiMiMi/web2app-windows/releases/download/Download/Web2App-Portable.zip

@@ -1,4 +1,4 @@
-#web2app
+web2app
 
 A very simple Windows application to use any website like a local app.
 
